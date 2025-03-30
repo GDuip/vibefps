@@ -1,8 +1,8 @@
 const Game = {
   gameStarted: false,
   score: 0,
-  ammo: 30,
-  maxAmmo: 30,
+  ammo: 3000,
+  maxAmmo: 3000,
   timeLeft: 60,
   health: 100,
   playerVelocity: new THREE.Vector3(),
